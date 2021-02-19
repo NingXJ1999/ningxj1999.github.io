@@ -10,3 +10,5 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: A third-year PhD candidate at Beijing Jiaotong University (BJTU)
 remote_theme: yaoyao-liu/strata-academic
+
+theme: jekyll-theme-cayman
