@@ -12,42 +12,44 @@ I strive for developing novel time series data mining, machine learning and deep
 
 # Publications
 
+- **GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**
+  <br>
+  **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He, Yaoshuai Zhao
+  <br>
+  IProc. of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020, 1324-1330 (CCF A, Oral) 接受率：12.6
+  <br>
+  【pdf】[[code]]()[[slides]](./slides/GraphSleepNet_slides.pdf)<kbd>[PDF](http://www.baidu.com)</kbd> <kbd>[Code](http://www.baidu.com)</kbd> <kbd>[Slides](http://www.baidu.com)</kbd>
+- 
 - **SST-EmotionNet: Spatial-Spectral-Temporal based Attention 3D Dense Network for EEG Emotion Recognition**
   <br>
   **Ziyu Jia**, Youfang Lin, Xiyang Cai, Haobin Chen, Haijun Gou, Jing Wang
   <br>
   28th ACM International Conference on Multimedia (**ACM MM 2020**, CCF A, accepted)
-  
 - **Phase Locking Value Based Spatial-Temporal Graph Convolution Network for Automatic Sleep Stage Classification**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He
   <br>
   **Journal of Computer Research and Development**. (Chinese CCF A, accepted)
-
 - **MMCNN: A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Kaixin Yang, Tianhang Liu and Xinwang Zhang
   <br>
   The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**, CCF B, accepted)
-
 - **Refined nonuniform embedding for coupling detection in multivariate time series**
   <br>
   **Ziyu Jia**, Youfang Lin, Yunxiao Liu, Zehui Jiao, and Jing Wang
   <br>
   **Physical Review E** 101 (2020) 062113.(SCI-II)
-
 - **GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He, Yaoshuai Zhao
   <br>
   IProc. of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020, 1324-1330(CCF A)
-
 - **Sleep Stage Classification Model Based on Deep Convolutional Neural Network**
   <br>
   **Ziyu Jia**, Youfang Lin, Hongjun Zhang, Jing Wang.
   <br>
   **Journal of Zhejiang University (Engineering Science)**. (Chinese Journal EI)
-  
 - **Detecting Causality in Multivariate Time Series via Non-Uniform Embedding**
   <br>
   **Ziyu Jia**, Youfang Lin, Zehui Jiao, Yan Ma, Jing Wang
@@ -83,7 +85,7 @@ I strive for developing novel time series data mining, machine learning and deep
 # Awards
 
 - **China Scholarship Council (CSC) scholarships**, 2020
-- **NeurIPS causality competition, Top 1%**,2019
+- **NeurIPS causality competition, Top 1%**, 2019
 - **International Collegiate Competition for Brain-inspired Computing, Top 10%**, 2019
 - **The 16th China Graduate Mathematical Modeling Competition, The third prize**, 2019
 - **First-Class Scholarship of Beijing Jiaotong University**, 2016-2019
