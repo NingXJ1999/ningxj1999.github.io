@@ -17,7 +17,6 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He, Yaoshuai Zhao
   <br>
   IProc. of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020, 1324-1330 (CCF A, Oral), Acceptance Ratio: 12.6%
-  <br>
   [[PDF]](https://www.ijcai.org/Proceedings/2020/184){:target="_blank"}  [[code]](https://github.com/ziyujia/GraphSleepNet){:target="_blank"}  [[slides]](./slides/GraphSleepNet_slides.pdf){:target="_blank"}
   
 - **SST-EmotionNet: Spatial-Spectral-Temporal based Attention 3D Dense Network for EEG Emotion Recognition**
@@ -25,7 +24,6 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Xiyang Cai, Haobin Chen, Haijun Gou, Jing Wang
   <br>
   28th ACM International Conference on Multimedia (**ACM MM 2020**, CCF A)
-  <br>
   [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394171.3413724){:target="_blank"}  [[code]](https://github.com/ziyujia/SST-EmotionNet){:target="_blank"}  [[slides]](./slides/SST-EmotionNet_slides.pdf){:target="_blank"}
   
 - **Refined Nonuniform Embedding for Coupling Detection in Multivariate Time Series**
@@ -33,7 +31,6 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Yunxiao Liu, Zehui Jiao, and Jing Wang
   <br>
   **Physical Review E** 101 (2020) 062113.(SCI-II)
-  <br>
   [[PDF]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.062113){:target="_blank"}
   
 - **MMCNN: A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification**
@@ -41,7 +38,6 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Jing Wang, Kaixin Yang, Tianhang Liu and Xinwang Zhang
   <br>
   The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**, CCF B, Oral)
-  <br>
   [[PDF]](https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_589.pdf){:target="_blank"}  [[code]](https://github.com/ziyujia/ECML-PKDD_MMCNN){:target="_blank"}
   
 - **Detecting Causality in Multivariate Time Series via Non-Uniform Embedding**
@@ -49,7 +45,6 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Zehui Jiao, Yan Ma, Jing Wang
   <br>
   **Entropy** 21(12) (2019): 1233. (SCI-III)
-  <br>
   [[PDF]](https://www.mdpi.com/1099-4300/21/12/1233){:target="_blank"}
   
 - **Sleep Stage Classification Model Based on Deep Convolutional Neural Network**
@@ -57,7 +52,6 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Hongjun Zhang, Jing Wang.
   <br>
   **Journal of Zhejiang University (Engineering Science)**. (Chinese Journal EI)
-  <br>
   [[PDF]](http://www.zjujournals.com/EN/abstract/abstract41547.shtml){:target="_blank"}
   
 - **Learning Space-Time-Frequency Representation with Two-Stream Attention Based 3D Network for Motor Imagery Classification**
@@ -65,7 +59,6 @@ I strive for developing novel time series data mining, machine learning and deep
   Zhenqi Li, Jing Wang, **Ziyu Jia***, Youfang Lin
   <br>
   **IEEE ICDM 2020** (CCF B, Oral) *Corresponding Author
-  <br>
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9338374/){:target="_blank"}
   
 - **Representation Based on Ordinal Patterns for Seizure Detection in EEG Signals**
@@ -73,7 +66,6 @@ I strive for developing novel time series data mining, machine learning and deep
   Yunxiao Liu, Youfang Lin, **Ziyu Jia**, Yan Ma, Jing Wang
   <br>
   **Computers in Biology and Medicine** 126 (2020), 104033. (SCIE-II)
-  <br>
   [[PDF]](https://www.sciencedirect.com/science/article/pii/S0010482520303644){:target="_blank"}
 
 ***
