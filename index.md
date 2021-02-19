@@ -18,7 +18,7 @@ I strive for developing novel time series data mining, machine learning and deep
   <br>
   IProc. of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020, 1324-1330 (CCF A, Oral) 接受率：12.6
   <br>
-  【pdf】[[code]]()[[slides]](./slides/GraphSleepNet_slides.pdf)<kbd>[PDF](http://www.baidu.com)</kbd> <kbd>[Code](http://www.baidu.com)</kbd> <kbd>[Slides](http://www.baidu.com)</kbd>
+  【pdf】[[code]]()[[slides]](./slides/GraphSleepNet_slides.pdf){:target="_blank"}
 - 
 - **SST-EmotionNet: Spatial-Spectral-Temporal based Attention 3D Dense Network for EEG Emotion Recognition**
   <br>
