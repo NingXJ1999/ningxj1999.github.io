@@ -17,14 +17,14 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He, Yaoshuai Zhao
   <br>
   IProc. of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020, 1324-1330 (CCF A, Oral), Acceptance Ratio: 12.6%
-  [[PDF]](https://www.ijcai.org/Proceedings/2020/184){:target="_blank"}  [[code]](https://github.com/ziyujia/GraphSleepNet){:target="_blank"}  [[slides]](./slides/GraphSleepNet_slides.pdf){:target="_blank"}
+  [[PDF]](https://www.ijcai.org/Proceedings/2020/184){:target="_blank"}  [[Code]](https://github.com/ziyujia/GraphSleepNet){:target="_blank"}  [[Slides]](./slides/GraphSleepNet_slides.pdf){:target="_blank"}
   
 - **SST-EmotionNet: Spatial-Spectral-Temporal based Attention 3D Dense Network for EEG Emotion Recognition**
   <br>
   **Ziyu Jia**, Youfang Lin, Xiyang Cai, Haobin Chen, Haijun Gou, Jing Wang
   <br>
   28th ACM International Conference on Multimedia (**ACM MM 2020**, CCF A)
-  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394171.3413724){:target="_blank"}  [[code]](https://github.com/ziyujia/SST-EmotionNet){:target="_blank"}  [[slides]](./slides/SST-EmotionNet_slides.pdf){:target="_blank"}
+  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3394171.3413724){:target="_blank"}  [[Code]](https://github.com/ziyujia/SST-EmotionNet){:target="_blank"}  [[Slides]](./slides/SST-EmotionNet_slides.pdf){:target="_blank"}
   
 - **Refined Nonuniform Embedding for Coupling Detection in Multivariate Time Series**
   <br>
@@ -38,7 +38,7 @@ I strive for developing novel time series data mining, machine learning and deep
   **Ziyu Jia**, Youfang Lin, Jing Wang, Kaixin Yang, Tianhang Liu and Xinwang Zhang
   <br>
   The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**, CCF B, Oral)
-  [[PDF]](https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_589.pdf){:target="_blank"}  [[code]](https://github.com/ziyujia/ECML-PKDD_MMCNN){:target="_blank"}
+  [[PDF]](https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_589.pdf){:target="_blank"}  [[Code]](https://github.com/ziyujia/ECML-PKDD_MMCNN){:target="_blank"}
   
 - **Detecting Causality in Multivariate Time Series via Non-Uniform Embedding**
   <br>
@@ -77,6 +77,7 @@ I strive for developing novel time series data mining, machine learning and deep
   Jing Wang, **Ziyu Jia**, Youfang Lin, Zehui Jiao.
   <br>
   Chinese Patent. Number: CN109758145A  (Pending)
+  
 - **Airport Flight Delay Causality Mining Method Based on Transfer Entropy.**
   <br>
   **Ziyu Jia**, Jing Wang, Youfang Lin, Chao Zhang.
