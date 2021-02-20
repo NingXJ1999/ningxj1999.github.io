@@ -169,6 +169,5 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-
-<script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1279690057&web_id=1279690057"></script>
+<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279690057'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1279690057%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 
