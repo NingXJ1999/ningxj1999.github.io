@@ -138,10 +138,10 @@ I strive for developing novel time series data mining, machine learning and deep
 # Emails
 
 <p style="margin: 0 0 0.5em 0">Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:</p>
-  <table>
+  <table style="font-size: 0.9em">
   <tr>
   <td> <strong>Seeking Code and Data</strong> </td>
-      <td> I am committed to contributing code and data related to my previous work to the scientific community. Usually, they will be open sourced on my <a herf='https://github.com/ziyujia'>Github</a>, but it may take some time to release them. </td>
+      <td> I am committed to contributing code and data related to my previous work to the scientific community. Usually, they will be open sourced on my <a href='https://github.com/ziyujia' target='_blank'>Github</a>, but it may take some time to release them. </td>
   </tr>
   <tr>
   <td> <strong>Seeking cooperation</strong> </td>
@@ -155,14 +155,5 @@ I strive for developing novel time series data mining, machine learning and deep
 
 ***
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?69847809c8b0d5beedecbfd2c444b58a";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279690057'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1279690057%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 
