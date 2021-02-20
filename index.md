@@ -140,15 +140,15 @@ I strive for developing novel time series data mining, machine learning and deep
 <p style="margin: 0 0 0.5em 0">Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:</p>
   <table>
   <tr>
-  <td> Seeking Code and Data </td>
+  <td> <strong>Seeking Code and Data</strong> </td>
       <td> I am committed to contributing code and data related to my previous work to the scientific community. Usually, they will be open sourced on my <a herf='https://github.com/ziyujia'>Github</a>, but it may take some time to release them. </td>
   </tr>
   <tr>
-  <td> Seeking cooperation </td>
+  <td> <strong>Seeking cooperation</strong> </td>
   <td> I really like working with people with similar backgrounds to complete research projects. If you are interested in cooperating with me in scientific research, please attach your curriculum vitae (CV) to the email. </td>
   </tr>
   <tr>
-  <td> Review request </td>
+  <td> <strong>Review request</strong> </td>
   <td> Like most of us, I receive requests to review papers at a much higher rate than I can possibly handle. As a selection criterion, I tend to accept reviews of papers that fall into my areas of expertise, and from journals and conferences that do not seek to extract excessive financial profit from the work that authors and reviewers provide for free to the scientific community.  </td>
   </tr>
   </table>
