@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-# About Me
+# Biography
 
 I am a third-year Ph.D. Candidate at Beijing Jiaotong University (BJTU). Here I am lucky enough to work with Prof. [Youfang Lin](http://faculty.bjtu.edu.cn/7443/){:target="_blank"} and Prof. [Jing Wang](http://faculty.bjtu.edu.cn/9167/){:target="_blank"}. Recently I will conduct my research at Massachusetts Institute of Technology (MIT) as a visiting student, under the supervision of Dr. [Roger Mark](http://imes.mit.edu/people/faculty/mark-roger/){:target="_blank"} (IEEE Fellow) and Dr. [Li-wei Lehman](http://web.mit.edu/lilehman/www/){:target="_blank"}.
 
@@ -10,13 +10,13 @@ I strive for developing novel time series data mining, machine learning and deep
 
 ***
 
-# Publications
+# Selected Publications
 
 - **GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**
   <br>
   **Ziyu Jia**, Youfang Lin, Jing Wang, Ronghao Zhou, Xiaojun Ning, Yuanlai He, Yaoshuai Zhao
   <br>
-  IProc. of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**), 2020, 1324-1330 (**CCF A, Oral**), Acceptance Ratio: 12.6%
+  IProc. of the 29th International Joint Conference on Artificial Intelligence, 2020, 1324-1330 (**IJCAI, CCF A, Oral**), **Acceptance Ratio: 12.6%**
   [[PDF]](https://www.ijcai.org/Proceedings/2020/184){:target="_blank"}  [[Code]](https://github.com/ziyujia/GraphSleepNet){:target="_blank"}  [[Slides]](./slides/GraphSleepNet_slides.pdf){:target="_blank"}
   
 - **SST-EmotionNet: Spatial-Spectral-Temporal based Attention 3D Dense Network for EEG Emotion Recognition**
@@ -58,7 +58,7 @@ I strive for developing novel time series data mining, machine learning and deep
   <br>
   Zhenqi Li, Jing Wang, **Ziyu Jia***, Youfang Lin
   <br>
-  **IEEE ICDM 2020** (**CCF B, Oral**) *Corresponding Author
+  The IEEE International Conference on Data Mining (**IEEE ICDM 2020, CCF B, Oral**) *Corresponding Author
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/9338374/){:target="_blank"}
   
 - **Representation Based on Ordinal Patterns for Seizure Detection in EEG Signals**
@@ -86,21 +86,82 @@ I strive for developing novel time series data mining, machine learning and deep
 
 ***
 
-# PC Member | Reviewer
+# Professional Services
 
+### PC Member | Reviewer
+
+- International Joint Conference on Artificial Intelligence (**IJCAI**)
+- The Association for the Advancement of Artificial Intelligence (**AAAI**)
 - The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**)
 - IEEE Transactions on Neural Systems & Rehabilitation Engineering (**TNSRE**)
+- Journal of Neural Engineering (**JNE**)
 - Future Generation Computer Systems (**FGCS**)
+- Biocybernetics and Biomedical Engineering (**BBE**)
+
+### Membership
+
+- DeeCamp 2020 Member (Under the guidance of Dr. Kai-Fu Lee [加上链接]) 
+- AI TIME PhD Branch Leader
+- IEEE Student Member 
+- ACM Student Member
+
+### Teaching Assistant
+
+- Machine learning, Beijing Jiaotong University, Spring 2018, Spring 2019, Spring 2020.
 
 ***
 
-# Awards
+# Honors and Awards
 
 - **China Scholarship Council (CSC) scholarships**, 2020
-- **NeurIPS causality competition, Top 1%**, 2019
-- **International Collegiate Competition for Brain-inspired Computing, Top 10%**, 2019
-- **The 16th China Graduate Mathematical Modeling Competition, The third prize**, 2019
+- **NeurIPS causality competition, Top 1%**, 2019. *Role: team mentor.*
+- **International Collegiate Competition for Brain-inspired Computing, Top 10%**, 2019. *Role: team mentor.*
+- **The 16th China Graduate Mathematical Modeling Competition, The third prize**, 2019. *Role: team mentor.*
 - **First-Class Scholarship of Beijing Jiaotong University**, 2016-2019
-- **Microsoft Imagine Cup Competition, The third prize**, 2015
+- **Microsoft Imagine Cup Competition, The third prize**, 2015. *Role: team mentor.*
 
 ***
+
+# Selected Talks
+
+- Physiological Time Series Classification Meets Artificial Intelligence  [[video (in Chinese)]](https://www.slidestalk.com/Baiyulan/V570930?video){:target="_blank"}
+  <br>
+  at: [01/2021] *AI Institute, Shanghai Jiao Tong University, Shanghai* （Host: Qingqing Wang）
+- AI TIME PhD IJCAI-Physiological Signal Classification for Deep Learning  [[video (in Chinese)]](https://www.bilibili.com/video/BV1q5411E7EU){:target="_blank"}
+  <br>
+  at: [01/2021] *AI TIME & AMiner, Beijing*
+- The 6th Swarma Club Academic Annual Conference • GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification [[slides(in Chinese)]](https://pattern.swarma.org/path?id=112 )
+  <br>
+  at: [01/2021] *Swarma Club, Beijing*
+
+***
+
+# Emails
+
+- Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:
+  <table>
+  <tr>
+  <td> Seeking Code and Data </td>
+      <td> I am committed to contributing code and data related to my previous work to the scientific community. Usually, they will be open sourced on my <a herf='https://github.com/ziyujia'>Github</a>, but it may take some time to release them. </td>
+  </tr>
+  <tr>
+  <td> Seeking cooperation </td>
+  <td> I really like working with people with similar backgrounds to complete research projects. If you are interested in cooperating with me in scientific research, please attach your curriculum vitae (CV) to the email. </td>
+  </tr>
+  <tr>
+  <td> Review request </td>
+  <td> Like most of us, I receive requests to review papers at a much higher rate than I can possibly handle. As a selection criterion, I tend to accept reviews of papers that fall into my areas of expertise, and from journals and conferences that do not seek to extract excessive financial profit from the work that authors and reviewers provide for free to the scientific community.  </td>
+  </tr>
+  </table>
+
+***
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?69847809c8b0d5beedecbfd2c444b58a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
