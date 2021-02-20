@@ -98,7 +98,7 @@ I strive for developing novel time series data mining, machine learning and deep
 - Biocybernetics and Biomedical Engineering (**BBE**)
 
 ### Membership
-- DeeCamp 2020 Member (Under the guidance of Dr. Kai-Fu Lee [加上链接]) 
+- DeeCamp 2020 Member (Under the guidance of Dr. [Kai-Fu Lee](https://www.linkedin.com/in/kaifulee/)) 
 - AI TIME PhD Branch Leader
 - IEEE Student Member 
 - ACM Student Member
