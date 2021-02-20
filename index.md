@@ -89,7 +89,6 @@ I strive for developing novel time series data mining, machine learning and deep
 # Professional Services
 
 ### PC Member | Reviewer
-
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 - The Association for the Advancement of Artificial Intelligence (**AAAI**)
 - The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**)
@@ -99,14 +98,12 @@ I strive for developing novel time series data mining, machine learning and deep
 - Biocybernetics and Biomedical Engineering (**BBE**)
 
 ### Membership
-
 - DeeCamp 2020 Member (Under the guidance of Dr. Kai-Fu Lee [加上链接]) 
 - AI TIME PhD Branch Leader
 - IEEE Student Member 
 - ACM Student Member
 
 ### Teaching Assistant
-
 - Machine learning, Beijing Jiaotong University, Spring 2018, Spring 2019, Spring 2020.
 
 ***
@@ -127,9 +124,11 @@ I strive for developing novel time series data mining, machine learning and deep
 - **Physiological Time Series Classification Meets Artificial Intelligence**  [[video (in Chinese)]](https://www.slidestalk.com/Baiyulan/V570930?video){:target="_blank"}
   <br>
   at: [01/2021]  *AI Institute, Shanghai Jiao Tong University, Shanghai* (Host: Qingqing Wang)
+  
 - **AI TIME PhD IJCAI-Physiological Signal Classification for Deep Learning**  [[video (in Chinese)]](https://www.bilibili.com/video/BV1q5411E7EU){:target="_blank"}
   <br>
   at: [01/2021]  *AI TIME & AMiner, Beijing*
+  
 - **The 6th Swarma Club Academic Annual Conference - GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**  [[slides(in Chinese)]](https://pattern.swarma.org/path?id=112 ){:target="_blank"}
   <br>
   at: [01/2021]  *Swarma Club, Beijing*
