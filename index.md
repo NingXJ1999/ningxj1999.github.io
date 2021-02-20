@@ -124,21 +124,28 @@ I strive for developing novel time series data mining, machine learning and deep
 
 # Selected Talks
 
-- Physiological Time Series Classification Meets Artificial Intelligence  [[video (in Chinese)]](https://www.slidestalk.com/Baiyulan/V570930?video){:target="_blank"}
+- **Physiological Time Series Classification Meets Artificial Intelligence**  [[video (in Chinese)]](https://www.slidestalk.com/Baiyulan/V570930?video){:target="_blank"}
   <br>
-  at: [01/2021] *AI Institute, Shanghai Jiao Tong University, Shanghai* （Host: Qingqing Wang）
-- AI TIME PhD IJCAI-Physiological Signal Classification for Deep Learning  [[video (in Chinese)]](https://www.bilibili.com/video/BV1q5411E7EU){:target="_blank"}
+  at: [01/2021]  *AI Institute, Shanghai Jiao Tong University, Shanghai* (Host: Qingqing Wang)
+- **AI TIME PhD IJCAI-Physiological Signal Classification for Deep Learning**  [[video (in Chinese)]](https://www.bilibili.com/video/BV1q5411E7EU){:target="_blank"}
   <br>
-  at: [01/2021] *AI TIME & AMiner, Beijing*
-- The 6th Swarma Club Academic Annual Conference • GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification [[slides(in Chinese)]](https://pattern.swarma.org/path?id=112 )
+  at: [01/2021]  *AI TIME & AMiner, Beijing*
+- **The 6th Swarma Club Academic Annual Conference - GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**  [[slides(in Chinese)]](https://pattern.swarma.org/path?id=112 )
   <br>
-  at: [01/2021] *Swarma Club, Beijing*
+  at: [01/2021]  *Swarma Club, Beijing*
 
 ***
 
 # Emails
 
-- Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:
+Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:
+
+- *Seeking Code and Data*: I am committed to contributing code and data related to my previous work to the scientific community. Usually, they will be open sourced on my [Github](https://github.com/ziyujia), but it may take some time to release them.
+  
+- *Seeking cooperation*: I really like working with people with similar backgrounds to complete research projects. If you are interested in cooperating with me in scientific research, please attach your curriculum vitae (CV) to the email. 
+  
+- *Review request*: Like most of us, I receive requests to review papers at a much higher rate than I can possibly handle. As a selection criterion, I tend to accept reviews of papers that fall into my areas of expertise, and from journals and conferences that do not seek to extract excessive financial profit from the work that authors and reviewers provide for free to the scientific community.   
+  
   <table>
   <tr>
   <td> Seeking Code and Data </td>
@@ -165,3 +172,6 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+
+<script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1279690057&web_id=1279690057"></script>
+
