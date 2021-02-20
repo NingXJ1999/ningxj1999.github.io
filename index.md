@@ -137,7 +137,7 @@ I strive for developing novel time series data mining, machine learning and deep
 
 # Emails
 
-Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:  
+<p style="margin: 0 0 2em 0">Like most people, I am struggling to keep up with my email. Here are a few rules that help me handle common situations more efficiently:  
   <table>
   <tr>
   <td> Seeking Code and Data </td>
