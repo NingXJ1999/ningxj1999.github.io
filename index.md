@@ -32,8 +32,8 @@ Dataset: [[Hugging Face]](https://huggingface.co/datasets/REFED-dataset/TEST)
 
 ```
 @inproceedings{ning2025REFED,
-	title = {REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset}
-	url = {XXXX}
+  title = {REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset}
+  url = {XXXX}
 }
 ```
 
