@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-title: "REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset"
-description: Cayman is a clean, responsive theme for GitHub Pages.
+
 
 ## Introduction
 
@@ -12,17 +11,32 @@ The REFED is the first emotional brain-computer interface dataset integrating mu
 
 The channel distribution of the joint EEG-f NIRS acquisition is shown in the following figure.
 
-<img src="./Figures/Figure_1.png" alt="Figure_1" style="zoom:50%;" />
+![Figure1](./Figures/Figure_1.png)
 
 In order to realize the real-time annotation of subjects' emotional state and the automated control of the whole process, we also developed a real-time annotation and control system, as shown in the following figure.
 
-![图片2](./Figures/Figure_2.png)
+![Figure2](./Figures/Figure_2.png)
+
+## Get Access
+
+Example Codes: [[Github: REFED-codes]](https://github.com/REFED-dataset/REFED-codes)
+
+Dataset: [[Hugging Face]](https://huggingface.co/datasets/REFED-dataset/TEST)
+
+[`[Hugging Face]`](https://huggingface.co/datasets/REFED-dataset/TEST)
+
+## BibTeX
+
+```
+@inproceedings{ning2025REFED,
+	title = {REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset}
+	url = {XXXX}
+}
+```
 
 ## License
 
 
 Publicly available under the [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/) protocol, with direct access to users after confirming use for non-commercial research purposes. 
-
-![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![by](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![nc](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![sa](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
 
 ![CC-BY-NC-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg) 
